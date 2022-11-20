@@ -30,3 +30,4 @@ $$\sum_{i=1}^{n} i \times (i + 1)$$
   ```
 </details>
 
+> :warning: **Warning:** Do not push the red button
